@@ -2,6 +2,12 @@
 /* Style Guide Styles */
 @import url('https://fonts.googleapis.com/css2?family=BioRhyme:wght@400;700&family=Work+Sans:ital,wght@0,400;0,700;1,400&display=swap');
 
+body, html {
+  overflow-x:
+  hidden;margin: 0;
+  padding: 0;
+}
+
 h1 {
   font-family: 'BioRhyme', serif;
   font-size: 56px;
@@ -151,6 +157,73 @@ a:hover {
   outline: 20px solid #ffffff;
   filter: drop-shadow(0px 4px 20px rgba(0, 0, 0, 0.1));
 }
+
+
+.section-option-3 {
+  max-height: 525px;
+  background: #4C433A;
+}
+
+.section-option-3 h2 {
+  color: #FDBF63;
+}
+
+.section-option-4 {
+  max-height: 525px;
+  background: #F1EAE2;
+  z-index: -1;
+}
+
+.section-option-4 h2 {
+  color: #5C3E98;
+}
+
+.section-option-4 p {
+  color: #4C433A;
+}
+
+.section-option-4 img {
+  display: block;
+  margin: auto;
+}
+
+/* .bg-beige:before {
+   background: #F1EAE2;
+}
+
+.bg-left:before {
+} */
+
+.bg-purple {
+  width: 50vw;
+  z-index: 10;
+}
+
+.bg-purple:before {
+  z-index: 20000;
+  background: linear-gradient(180deg, #5C3E98 -9.56%, rgba(92, 62, 152, 0.79) 100%), url('images/illinois-map.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size:cover;
+  background-attachment: fixed;
+}
+
+.bg-right:before {
+  left:0;
+  right:auto;
+}
+
+.bg:before {
+  position:absolute;
+  left:0em; content:'';
+  height:100%;
+  width:800em;
+  z-index:-1
+}
+
+.section-option-4 .column-2 {
+}
+
 
 /* Interior Page */
 

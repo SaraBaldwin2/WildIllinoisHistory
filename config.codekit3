@@ -17,6 +17,19 @@
       "oAP" : "\/.gitattributes",
       "oF" : 0
     },
+    "\/images\/Boat-1.png" : {
+      "ft" : 32768,
+      "iS" : 840382,
+      "oA" : 0,
+      "oAP" : "\/images\/Boat-1.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/images\/boat.jpg" : {
       "ft" : 16384,
       "iS" : 2477774,
@@ -65,6 +78,32 @@
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/images\/illinois-map.png" : {
+      "ft" : 32768,
+      "iS" : 4985842,
+      "oA" : 0,
+      "oAP" : "\/images\/illinois-map.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/images\/possibles-bag-lg.png" : {
+      "ft" : 32768,
+      "iS" : 375137,
+      "oA" : 0,
+      "oAP" : "\/images\/possibles-bag-lg.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -144,14 +183,6 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/index-test copy.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/index-test copy.html",
-      "oF" : 0
-    },
     "\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -168,6 +199,14 @@
       "oAP" : "\/interior.html",
       "oF" : 0
     },
+    "\/OLD\/index-test copy.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/OLD\/index-test copy.html",
+      "oF" : 0
+    },
     "\/OLD\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -175,6 +214,18 @@
       "oA" : 0,
       "oAP" : "\/OLD\/index.html",
       "oF" : 0
+    },
+    "\/style-min.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/style-min-min.css",
+      "oF" : 0,
+      "pg" : 0
     },
     "\/style.css" : {
       "aP" : 1,
