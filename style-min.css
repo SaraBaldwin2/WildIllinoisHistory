@@ -102,15 +102,10 @@ body {
 }
 
 .play-button:hover {
-  color: #5C3E98;
+  color: #5C3E98 !important;
   background: #FDBF63;
   transition: ease-out 0.3s;
 }
-
-.play-button a:hover {
-  color: #5C3E98 !important;
-}
-
 .alt-button {
   color: #5C3E98;
   font-weight: 700;
