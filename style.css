@@ -36,8 +36,21 @@ body {
 }
 
 a {
-
+  font-weight: 700;
+  color: #1EA4AC;
 }
+
+a:hover {
+  color: #5C3E98;
+  transition: ease-in 0.3s;
+}
+
+a:hover {
+  color: #5C3E98;
+  transition: ease-out 0.3s;
+  text-decoration: none;
+}
+
 
 /* Poistioning */
 
@@ -70,15 +83,14 @@ a {
   transition: ease-in 0.3s;
 }
 
+.nav a:hover {
+    color: #FDBF63;
+    transition: ease-in 0.3s;
+}
+
 .nav {
   border-bottom: rgba(255,255,255,.5) .1px solid;
 }
-a:hover {
-  color: #FDBF63;
-  transition: ease-out 0.3s;
-  text-decoration: none;
-}
-
 
 .play-button a {
   font-weight: 700;
