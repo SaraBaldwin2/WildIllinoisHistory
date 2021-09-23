@@ -79,9 +79,6 @@ a:hover {
   text-decoration: none;
 }
 
-.btn {
-  color: #ffffff;
-}
 
 .play-button a {
   font-weight: 700;
@@ -89,6 +86,7 @@ a:hover {
 }
 
 .play-button {
+  color: #ffffff;
   font-weight: 700;
   background: #1EA4AC;
   border-radius: 3px;
@@ -103,7 +101,22 @@ a:hover {
 }
 
 .play-button a:hover {
+  color: #5C3E98 !important;
+}
+
+.alt-button {
   color: #5C3E98;
+  font-weight: 700;
+  padding: 10px 20px;
+  background: transparent;
+  border: 2px solid #5C3E98;
+  border-radius: 3px;
+}
+
+.alt-button:hover {
+  color: #ffffff;
+  background: #5C3E98;
+  transition: ease-out 0.3s;
 }
 
 .hero-banner  {
@@ -150,7 +163,7 @@ a:hover {
 }
 
 .section-option-2 h2 {
-  color: #4D463E;
+  color: #5C3E98;
 }
 
 .image-border {
@@ -221,7 +234,8 @@ a:hover {
   z-index:-1
 }
 
-.section-option-4 .column-2 {
+.section-option-4 h2 {
+  padding-top: 40px;
 }
 
 
