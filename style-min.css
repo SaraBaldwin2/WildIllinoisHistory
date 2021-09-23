@@ -2,11 +2,31 @@
 /* Style Guide Styles */
 @import url('https://fonts.googleapis.com/css2?family=BioRhyme:wght@400;700&family=Work+Sans:ital,wght@0,400;0,700;1,400&display=swap');
 
+/* - General Styles - */
+
 body, html {
   overflow-x:
   hidden;margin: 0;
   padding: 0;
 }
+
+a {
+  font-weight: 700;
+  color: #1EA4AC;
+}
+
+a:hover {
+  color: #5C3E98;
+  transition: ease-in 0.3s;
+}
+
+a:hover {
+  color: #5C3E98;
+  transition: ease-out 0.3s;
+  text-decoration: none;
+}
+
+/* - Typography -*/
 
 h1 {
   font-family: 'BioRhyme', serif;
@@ -35,22 +55,6 @@ body {
   font-size: 16px;
 }
 
-a {
-  font-weight: 700;
-  color: #1EA4AC;
-}
-
-a:hover {
-  color: #5C3E98;
-  transition: ease-in 0.3s;
-}
-
-a:hover {
-  color: #5C3E98;
-  transition: ease-out 0.3s;
-  text-decoration: none;
-}
-
 
 /* Poistioning */
 
@@ -62,19 +66,8 @@ a:hover {
   bottom: -10px;
 }
 
-/* .position-relative {
-  position: relative !important;
-} */
-
 /* Navigation */
 
-/* .navbar-nav {
-    display: inline-block;
-}
-
-.navbar-default {
-    text-align: right;
-} */
 
 .nav a {
   font-family: 'Work Sans', sans-serif;
@@ -91,6 +84,8 @@ a:hover {
 .nav {
   border-bottom: rgba(255,255,255,.5) .1px solid;
 }
+
+/* - Buttons -*/
 
 .play-button a {
   font-weight: 700;
@@ -131,11 +126,10 @@ a:hover {
   transition: ease-out 0.3s;
 }
 
+/* - Hero Section */
+
 .hero-banner  {
   color: #ffffff;
-}
-
-.banner-text {
 }
 
 .hero-banner {
@@ -147,6 +141,8 @@ a:hover {
   background-size:cover;
   background-attachment: fixed;
 }
+
+/* - Example Section 1 */
 
 .section-option-1 {
   width: 100%;
@@ -164,6 +160,8 @@ a:hover {
 .section-option-1 p {
   color: #ffffff;
 }
+
+/* - Example Section 2 */
 
 .section-option-2 {
   max-height: 525px;
@@ -184,6 +182,7 @@ a:hover {
   filter: drop-shadow(0px 4px 20px rgba(0, 0, 0, 0.1));
 }
 
+/* - Example Section 3 - */
 
 .section-option-3 {
   max-height: 525px;
@@ -193,6 +192,8 @@ a:hover {
 .section-option-3 h2 {
   color: #FDBF63;
 }
+
+/* - Example Section 4 - */
 
 .section-option-4 {
   max-height: 525px;
@@ -212,13 +213,6 @@ a:hover {
   display: block;
   margin: auto;
 }
-
-/* .bg-beige:before {
-   background: #F1EAE2;
-}
-
-.bg-left:before {
-} */
 
 .bg-purple {
   width: 50vw;
@@ -254,9 +248,9 @@ a:hover {
 
 /* Interior Page */
 
-.interior.hero-banner nav {
+/* .interior.hero-banner nav {
   border-bottom: rgba(61, 52, 43, 1) .1px solid !important;
-}
+} */
 
 .interior-page {
   background: rgba(241, 234, 226, 0.5);
