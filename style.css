@@ -281,3 +281,25 @@ body {
   font-size: 40px;
   color: #ffffff;
 }
+
+/* - Interior Sub Menu -*/
+
+
+.sub-menu {
+  background: rgba(92, 62, 152, 0.8);
+  border-radius: 4px;
+  padding: 20px;
+  width: 300px;
+}
+
+.sub-menu {
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 700;
+  color: #ffffff;
+  transition: ease-in 0.3s;
+}
+
+.sub-menu a:hover {
+  color: #FDBF63;
+  transition: ease-in 0.3s;
+}
