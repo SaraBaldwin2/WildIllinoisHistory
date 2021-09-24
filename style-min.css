@@ -76,9 +76,9 @@ body {
   transition: ease-in 0.3s;
 }
 
-.nav a:hover {
-    color: #FDBF63;
-    transition: ease-in 0.3s;
+.nav .play-button:hover {
+  color: #5C3E98;
+  transition: ease-in 0.3s;
 }
 
 .nav {
@@ -87,12 +87,8 @@ body {
 
 /* - Buttons -*/
 
-.play-button a {
-  font-weight: 700;
-  color: #ffffff;
-}
-
 .play-button {
+  font-weight: 700;
   color: #ffffff;
   font-weight: 700;
   background: #1EA4AC;
@@ -102,10 +98,15 @@ body {
 }
 
 .play-button:hover {
-  color: #5C3E98 !important;
+  color: #5C3E98;
   background: #FDBF63;
   transition: ease-out 0.3s;
 }
+
+.play-button a:hover{
+  color: #fffff;
+}
+
 .alt-button {
   color: #5C3E98;
   font-weight: 700;
