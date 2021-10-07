@@ -17,6 +17,45 @@
       "oAP" : "\/.gitattributes",
       "oF" : 0
     },
+    "\/images\/badger.jpg" : {
+      "ft" : 16384,
+      "iS" : 127936,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/images\/badger.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/images\/beaver-2.jpg" : {
+      "ft" : 16384,
+      "iS" : 112422,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/images\/beaver-2.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/images\/beaver.jpg" : {
+      "ft" : 16384,
+      "iS" : 110060,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/images\/beaver.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/images\/Boat-1.png" : {
       "ft" : 32768,
       "iS" : 840382,
@@ -52,6 +91,32 @@
       "oIPL" : 0,
       "opt" : 0,
       "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/images\/conservation-movement.jpg" : {
+      "ft" : 16384,
+      "iS" : 96199,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/images\/conservation-movement.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/images\/fur.jpg" : {
+      "ft" : 16384,
+      "iS" : 184314,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/images\/fur.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -121,6 +186,32 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/images\/river-otter-2.jpg" : {
+      "ft" : 16384,
+      "iS" : 123800,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/images\/river-otter-2.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/images\/river-otter.jpg" : {
+      "ft" : 16384,
+      "iS" : 202319,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/images\/river-otter.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/images\/silver-coin.png" : {
       "ft" : 32768,
       "iS" : 105890,
@@ -160,6 +251,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/images\/trap.jpg" : {
+      "ft" : 16384,
+      "iS" : 317523,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/images\/trap.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/images\/WIH-Logo.png" : {
       "ft" : 32768,
       "iS" : 11220,
@@ -189,6 +293,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/index.html",
+      "oF" : 0
+    },
+    "\/interior-card.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/interior-card.html",
       "oF" : 0
     },
     "\/interior-submenu.html" : {

@@ -76,6 +76,11 @@ body {
   transition: ease-in 0.3s;
 }
 
+.nav a:hover {
+  color: #1EA4AC;;
+  transition: ease-in 0.3s;
+}
+
 .nav .play-button:hover {
   color: #5C3E98;
   transition: ease-in 0.3s;
@@ -305,4 +310,21 @@ body {
 .sub-menu a:hover {
   color: #FDBF63;
   transition: ease-in 0.3s;
+}
+
+/* --- Interior Page Cards ---*/
+
+.card img {
+  border-radius: 5px;
+  max-height: 250px;
+}
+
+.card {
+  background: transparent;
+  border: 0px solid rgba(0,0,0,0);
+  max-width: 1200px;
+}
+
+.card-body {
+  padding: .0rem 1.75rem;
 }
